@@ -1,4 +1,6 @@
-Edutest ist ein Mod mit dem Kursleiter / Lehrer über ein visuelles Admin-Tool Welteinstellungen und Teilnehmer-/Schüler-Aktivitäten steuern können  
+Edutest ist ein Mod mit dem Kursleiter / Lehrer über ein visuelles Admin-Tool Welteinstellungen und Teilnehmer-/Schüler-Aktivitäten steuern können - angelehnt an Minecraft-Edu https://wiki.education.minecraft.net/wiki/What_is_MinecraftEdu
+Eine Übersicht aller Minecraft-Edu-Features (mit Screenshots) findet sich hier:
+##English-Version
 The Edutest Mod provides a GUI frontend for the educational staff  
 https://github.com/zeuner/edutest
 
