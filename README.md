@@ -6,10 +6,7 @@ https://github.com/minetest4edu/edutest_minetest-education/blob/master/documenta
 The Edutest Mod provides a GUI frontend for the educational staff  
 https://github.com/zeuner/edutest
 
-https://github.com/minetest4edu/edutest_minetest-education/blob/master/MinetestEDUStartmenu.png
 ![Minetest Menu](https://github.com/minetest4edu/edutest_minetest-education/blob/master/MinetestEDUStartmenu.png)
-
-![Minetest Menu](https://github.com/minetest4edu/edutest_minetest-education/blob/master/screenshots/minetestEDUMenu.png)
 ![Kreativmodus aktivieren](https://github.com/minetest4edu/edutest_minetest-education/blob/master/screenshots/kreativModus.png)
 ![Teleport to Player](https://github.com/minetest4edu/edutest_minetest-education/blob/master/screenshots/teleport2player.png)
 ![Edutest Messaging](https://github.com/minetest4edu/edutest_minetest-education/blob/master/screenshots/messaging.png)
